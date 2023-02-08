@@ -10,3 +10,5 @@ This repository save my studies on data structure. The repo work with C programm
 
 **Sorting algorithms**
 - [Bubble sort](https://github.com/r1beirin/data-structure/tree/main/sorting/bubblesort/)
+- [Insertion sort](https://github.com/r1beirin/data-structure/tree/main/sorting/insertion-sort)
+- [Selection sort](https://github.com/r1beirin/data-structure/tree/main/sorting/selection-sort)
